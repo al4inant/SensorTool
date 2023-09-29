@@ -1,0 +1,9 @@
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Siemens Akku Callibrator.exe.config
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Siemens Akku Callibrator.exe
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Siemens Akku Callibrator.pdb
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Siemens Akku Callibrator.exe
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Siemens Akku Callibrator.pdb
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\alfi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
